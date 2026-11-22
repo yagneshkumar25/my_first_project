@@ -123,3 +123,6 @@ The application focuses on authentication, CRUD operations, database integration
 ## GitHub Repository
 
 https://github.com/yagneshkumar25/my_first_project
+## 🎥 Project Demo
+
+[Watch Sweety Demo Video](./client%20-%20Google%20Chrome%202026-11-22%2012-59-38%20%281%29.mp4)
